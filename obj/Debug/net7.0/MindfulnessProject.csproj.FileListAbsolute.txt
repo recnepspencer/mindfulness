@@ -1,0 +1,14 @@
+/Users/spenstar/Documents/School/programming-with-classes/mindfulness-project/MindfulnessProject/bin/Debug/net7.0/MindfulnessProject
+/Users/spenstar/Documents/School/programming-with-classes/mindfulness-project/MindfulnessProject/bin/Debug/net7.0/MindfulnessProject.deps.json
+/Users/spenstar/Documents/School/programming-with-classes/mindfulness-project/MindfulnessProject/bin/Debug/net7.0/MindfulnessProject.runtimeconfig.json
+/Users/spenstar/Documents/School/programming-with-classes/mindfulness-project/MindfulnessProject/bin/Debug/net7.0/MindfulnessProject.dll
+/Users/spenstar/Documents/School/programming-with-classes/mindfulness-project/MindfulnessProject/bin/Debug/net7.0/MindfulnessProject.pdb
+/Users/spenstar/Documents/School/programming-with-classes/mindfulness-project/MindfulnessProject/obj/Debug/net7.0/MindfulnessProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/spenstar/Documents/School/programming-with-classes/mindfulness-project/MindfulnessProject/obj/Debug/net7.0/MindfulnessProject.AssemblyInfoInputs.cache
+/Users/spenstar/Documents/School/programming-with-classes/mindfulness-project/MindfulnessProject/obj/Debug/net7.0/MindfulnessProject.AssemblyInfo.cs
+/Users/spenstar/Documents/School/programming-with-classes/mindfulness-project/MindfulnessProject/obj/Debug/net7.0/MindfulnessProject.csproj.CoreCompileInputs.cache
+/Users/spenstar/Documents/School/programming-with-classes/mindfulness-project/MindfulnessProject/obj/Debug/net7.0/MindfulnessProject.dll
+/Users/spenstar/Documents/School/programming-with-classes/mindfulness-project/MindfulnessProject/obj/Debug/net7.0/refint/MindfulnessProject.dll
+/Users/spenstar/Documents/School/programming-with-classes/mindfulness-project/MindfulnessProject/obj/Debug/net7.0/MindfulnessProject.pdb
+/Users/spenstar/Documents/School/programming-with-classes/mindfulness-project/MindfulnessProject/obj/Debug/net7.0/MindfulnessProject.genruntimeconfig.cache
+/Users/spenstar/Documents/School/programming-with-classes/mindfulness-project/MindfulnessProject/obj/Debug/net7.0/ref/MindfulnessProject.dll
